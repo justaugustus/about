@@ -1,7 +1,7 @@
 # Site settings
-baseURL = "https://example.org/"
+baseURL = "https://just.agst.us/"
 languageCode = "en-US"
-title = "Split - HTML Template Demo"
+title = "Stephen Augustus"
 theme = "hugo-split-theme"
 disableKinds = ["page", "section", "taxonomy", "taxonomyTerm", "RSS", "sitemap", "robotsTXT"]
 
@@ -17,7 +17,7 @@ googleAnalytics = ""
   twitterHandle = "stephenaugustus"
 
   # Favicon
-  favicon = "favicon.ico"
+  favicon = "images/favicon-32x32.png"
 
   # Copyright
   copyright = "&copy;2018 Stephen Augustus"
@@ -52,50 +52,42 @@ googleAnalytics = ""
       heading = "Connect"
 
       [[params.links.list1.link]]
-        text = "Blog"
-        url = "#"
+        text = "Twitter"
+        url = "https://twitter.com/stephenaugustus"
 
       [[params.links.list1.link]]
-        text = "Email"
-        url = "#"
+        text = "LinkedIn"
+        url = "https://www.linkedin.com/in/stephenaugustus"
 
       [[params.links.list1.link]]
-        text = "Newsletter"
-        url = "#"
+        text = "Keybase"
+        url = "https://keybase.io/justaugustus"
 
   # Links List #2
   [[params.links]]
     [params.links.list2]
-      heading = "Social"
+      heading = "Read"
 
       [[params.links.list2.link]]
-        text = "Twitter"
-        url = "#"
+        text = "GitHub"
+        url = "https://github.com/justaugustus"
 
       [[params.links.list2.link]]
-        text = "Instagram"
-        url = "#"
-
-      [[params.links.list2.link]]
-        text = "Dribbble"
-        url = "#"
+        text = "Blog"
+        url = "https://blogops.agst.us/"
 
   # Links List #3
   [[params.links]]
     [params.links.list3]
-      heading = "Network"
+      heading = "Social"
 
       [[params.links.list3.link]]
-        text = "Link One"
-        url = "#"
+        text = "Facebook"
+        url = "https://www.facebook.com/Stephen.Augustus"
 
       [[params.links.list3.link]]
-        text = "Link Two"
-        url = "#"
-
-      [[params.links.list3.link]]
-        text = "Link Three"
-        url = "#"
+        text = "Instagram"
+        url = "https://www.instagram.com/mraugustus/"
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
   # Please keep the original attribution link when using for your own project.
