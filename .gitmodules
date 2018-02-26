@@ -1,0 +1,7 @@
+[submodule "themes/hugo-split-theme"]
+	path = themes/hugo-split-theme
+	url = https://github.com/christianmendoza/hugo-split-theme
+[submodule "public"]
+	path = public
+	url = git@github.com:justaugustus/justaugustus.github.io.git
+	branch = master
