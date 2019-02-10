@@ -12,7 +12,7 @@ googleAnalytics = "UA-25750838-5"
 
   # Metadata for search engines and social sharing
   name = "Stephen Augustus"
-  description = "Friendly neighborhood Kubernetes guy at Red Hat (previously CoreOS). Proud geek. Black engineer. Made in NYC."
+  description = "Friendly neighborhood Kubernetes guy at VMware. Previously Red Hat and CoreOS. Proud geek. Black engineer. Made in NYC."
   shareImage = "images/profile-18-personal-crop-web.jpg"
   twitterHandle = "stephenaugustus"
 
@@ -21,12 +21,6 @@ googleAnalytics = "UA-25750838-5"
 
   # Copyright
   copyright = "&copy;2018 Stephen Augustus"
-
-  # Section - Content
-  [params.content]
-    name = "Stephen Augustus"
-    tagline = "Caesar of Systems"
-    bio = "Friendly neighborhood Kubernetes guy at Red Hat (previously CoreOS). Proud geek. Black engineer. Made in NYC."
 
   # Section - Visual
   [params.visual]
