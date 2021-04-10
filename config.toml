@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://just.agst.us/"
+baseURL = "https://whois.auggie.dev/"
 languageCode = "en-US"
 title = "Stephen Augustus"
 theme = "hugo-split-theme"
