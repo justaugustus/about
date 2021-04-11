@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "https://just.agst.us/"
+baseURL = "https://whois.auggie.dev/"
 languageCode = "en-US"
 title = "Stephen Augustus"
 theme = "hugo-split-theme"
@@ -60,28 +60,11 @@ googleAnalytics = "UA-25750838-5"
   # Links List #2
   [[params.links]]
     [params.links.list2]
-      heading = "Read"
+      heading = "Work"
 
       [[params.links.list2.link]]
         text = "GitHub"
         url = "https://github.com/justaugustus"
-
-      [[params.links.list2.link]]
-        text = "Blog"
-        url = "https://blogops.agst.us/"
-
-  # Links List #3
-  [[params.links]]
-    [params.links.list3]
-      heading = "Social"
-
-      [[params.links.list3.link]]
-        text = "Facebook"
-        url = "https://www.facebook.com/Stephen.Augustus"
-
-      [[params.links.list3.link]]
-        text = "Instagram"
-        url = "https://www.instagram.com/mraugustus/"
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
   # Please keep the original attribution link when using for your own project.
