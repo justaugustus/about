@@ -8,10 +8,10 @@ Stephen is a Black engineering director and leader in open source communities.
 He is Cisco's first Head of Open Source, within the Emerging Technologies &
 Incubation division.
 
-For [Kubernetes][kubernetes] community, he has co-founded transformational
-elements of the project, including the KEP (Kubernetes Enhancements Proposal)
-process, the Release Engineering subproject, and Working Group Naming. Stephen
-has also previously served as a chair for both SIG PM and SIG Azure.
+For [Kubernetes][kubernetes], he has co-founded transformational elements of
+the project, including the KEP (Kubernetes Enhancements Proposal) process, the
+Release Engineering subproject, and Working Group Naming. Stephen has also
+previously served as a chair for both SIG PM and SIG Azure.
 
 He continues his work in Kubernetes as a Chair for [SIG Release][sig-release],
 a Lead for [WG Naming][wg-naming], and an owner of [Enhancements][enhancements]
