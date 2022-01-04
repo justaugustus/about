@@ -66,6 +66,10 @@ googleAnalytics = "UA-25750838-5"
         text = "GitHub"
         url = "https://github.com/justaugustus"
 
+      [[params.links.list2.link]]
+        text = "Open Source at Cisco"
+        url = "https://opensource.cisco.com"
+
   # The original template is released under the Creative Commons Attribution 3.0 License.
   # Please keep the original attribution link when using for your own project.
   # If you'd like to use the template without the attribution, you can check out
