@@ -5,8 +5,8 @@ tagline = "Caesar of Systems"
 
 Stephen is a Black engineering director and leader in open source communities.
 
-He is Cisco's first Head of Open Source, within the Emerging Technologies &
-Incubation division.
+He is the Head of [Open Source at Cisco][cisco-open-source], working within the
+Strategy, Incubation, & Applications (SIA) organization.
 
 For [Kubernetes][kubernetes], he has co-founded transformational elements of
 the project, including the [KEP][enhancements] (Kubernetes Enhancements
@@ -18,14 +18,17 @@ He continues his work in Kubernetes as a [Steering Committee][k8s-steering]
 member and a Chair for [SIG Release][sig-release].
 
 Across the wider [LF][lf] (Linux Foundation) ecosystem, Stephen has the
-pleasure of serving as a [TODO Group][todo-group]
-[Steering Committee][todo-steering] member, a [CNCF][cncf] (Cloud Native
-Computing Foundation) [TAG Contributor Strategy][contrib-strat] Chair, and a
-maintainer for the [Dex][dex] project. Previously, he was one of the Program
+pleasure of serving as a member of the [OpenSSF][openssf]
+[Governing Board][openssf-gb] and the [TODO Group][todo-group]
+[Steering Committee][todo-steering].
+
+Previously, he was a [CNCF][cncf] (Cloud Native Computing Foundation)
+[TAG Contributor Strategy][contrib-strat] Chair and one of the Program
 Chairs for [KubeCon / CloudNativeCon][kubecon], the cloud native community's
 flagship conference.
 
-He is a [prolific contributor][devstats] to CNCF projects, amongst the top 25
+He is a maintainer for the [Scorecard][scorecard] and [Dex][dex] projects, and
+a [prolific contributor][devstats] to CNCF projects, amongst the top 40
 (as of writing) code/content committers, all-time.
 
 In 2020, Stephen co-founded the [Inclusive Naming Initiative][ini], a
@@ -34,10 +37,11 @@ consistent, responsible choices to remove harmful language across codebases,
 standards, and documentation. He leads the Community/Open Source workstream
 and maintains the initiative's infrastructure.
 
-He has previously held positions at VMWare (via Heptio), Red Hat, and CoreOS.
+He has previously held positions at VMware (via Heptio), Red Hat, and CoreOS.
 
 Stephen is based in New York City.
 
+[cisco-open-source]: https://opensource.cisco.com/
 [cncf]: https://www.cncf.io/
 [contrib-strat]: https://github.com/cncf/tag-contributor-strategy
 [devstats]: https://all.devstats.cncf.io/d/22/prs-authors-table?orgId=1
@@ -48,7 +52,10 @@ Stephen is based in New York City.
 [kubecon]: https://kubecon.io
 [kubernetes]: https://kubernetes.io/
 [lf]: https://linuxfoundation.org/
+[openssf]: https://openssf.org/
+[openssf-gb]: https://openssf.org/about/board/
 [releng]: https://git.k8s.io/community/sig-release#release-engineering
+[scorecard]: https://github.com/ossf/scorecard
 [sig-release]: https://git.k8s.io/community/sig-release
 [todo-group]: https://todogroup.org/#
-[todo-steering]: https://github.com/todogroup/governance#todo-steering-committee-tsc
+[todo-steering]: https://github.com/todogroup/governance
