@@ -41,6 +41,14 @@ He has previously held positions at VMware (via Heptio), Red Hat, and CoreOS.
 
 Stephen is based in New York City.
 
+<!-- FIXME:
+This is a low-effort way to do link verification for Mastodon.
+
+Consider rolling this into the partials for the theme:
+https://github.com/escalate/hugo-split-theme/blob/master/layouts/partials/links.html
+-->
+<a rel="me" href="https://hachyderm.io/@justaugustus"></a>
+
 [cisco-open-source]: https://opensource.cisco.com/
 [cncf]: https://www.cncf.io/
 [contrib-strat]: https://github.com/cncf/tag-contributor-strategy
