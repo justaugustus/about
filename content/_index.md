@@ -19,13 +19,14 @@ member and a Chair for [SIG Release][sig-release].
 
 Across the wider [LF][lf] (Linux Foundation) ecosystem, Stephen has the
 pleasure of serving as a member of the [OpenSSF][openssf]
-[Governing Board][openssf-gb] and the [TODO Group][todo-group]
-[Steering Committee][todo-steering].
+[Governing Board][openssf-gb] and the [OpenAPI Initiative][oapi-initiative]
+Business Governing Board.
 
-Previously, he was a [CNCF][cncf] (Cloud Native Computing Foundation)
-[TAG Contributor Strategy][contrib-strat] Chair and one of the Program
-Chairs for [KubeCon / CloudNativeCon][kubecon], the cloud native community's
-flagship conference.
+Previously, he was a [TODO Group][todo-group] [Steering Committee][todo-steering]
+member, a [CNCF][cncf] (Cloud Native Computing Foundation)
+[TAG Contributor Strategy][contrib-strat] Chair, and one of the Program Chairs
+for [KubeCon / CloudNativeCon][kubecon], the cloud native community's flagship
+conference.
 
 He is a maintainer for the [Scorecard][scorecard] and [Dex][dex] projects, and
 a [prolific contributor][devstats] to CNCF projects, amongst the top 40
@@ -62,6 +63,7 @@ https://github.com/escalate/hugo-split-theme/blob/master/layouts/partials/links.
 [lf]: https://linuxfoundation.org/
 [openssf]: https://openssf.org/
 [openssf-gb]: https://openssf.org/about/board/
+[oapi-initiative]: https://www.openapis.org/
 [releng]: https://git.k8s.io/community/sig-release#release-engineering
 [scorecard]: https://github.com/ossf/scorecard
 [sig-release]: https://git.k8s.io/community/sig-release
