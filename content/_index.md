@@ -35,8 +35,7 @@ a [prolific contributor][devstats] to CNCF projects, amongst the top 40
 In 2020, Stephen co-founded the [Inclusive Naming Initiative][ini], a
 cross-industry group dedicated to helping projects and companies make
 consistent, responsible choices to remove harmful language across codebases,
-standards, and documentation. He leads the Community/Open Source workstream
-and maintains the initiative's infrastructure.
+standards, and documentation.
 
 He has previously held positions at VMware (via Heptio), Red Hat, and CoreOS.
 
