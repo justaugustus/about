@@ -1,6 +1,6 @@
 +++
 title = "Stephen Augustus"
-tagline = "Caesar of Systems"
+tagline = "Open Enthusiast"
 +++
 
 Stephen is a Black engineering director and community leader in open source,
