@@ -16,7 +16,8 @@ in foundation-level governing boards ([OpenSSF][ossf], [CNCF][cncf],
 ([Kubernetes][k8s], [OpenSSF Scorecard][scorecard], [TODO Group][todo]), and
 helps maintain a few codebases around open source projects you may have heard of.
 
-Additionally, he serves as an advisor and invests in startups with open source in their DNA.
+Additionally, he serves as an advisor and investor for startups in the open
+source ecosystem.
 
 Within the Open Source Security Foundation (OpenSSF), he maintains OpenSSF
 Scorecard, a project that helps assess the security posture of open source
