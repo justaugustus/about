@@ -1,19 +1,16 @@
 +++
-title = "Stephen Augustus"
-tagline = "Open Enthusiast"
+title = "whois.auggie.dev"
+tagline = "Stephen Augustus"
 +++
 
 Stephen is a Black engineering director and community leader in open source,
 based in New York City.
 
-He is the Head of [Open Source at Cisco][cisco-open], working within the
-Corporate Strategy, Development, and Incubation (CSDI) organization.
+Most recently, he was Head of Open Source at Cisco, where he founded the Open
+Source Program Office (OSPO) and managed a team of brilliant architects.
 
-Outside of managing Cisco's open source strategy and a team of brilliant
-architects in Cisco's Open Source Program Office (OSPO), Stephen participates
-in foundation-level governing boards ([OpenSSF][ossf], [CNCF][cncf],
-[OpenAPI Initiative][oapi]), project-level steering committees
-([Kubernetes][k8s], [OpenSSF Scorecard][scorecard], [TODO Group][todo]), and
+Stephen currently participates in project-level steering committees
+([Kubernetes][k8s], [OpenSSF Scorecard][scorecard], [TODO Group][todo]) and
 helps maintain a few codebases around open source projects you may have heard of.
 
 Additionally, he serves as an advisor and investor for startups in the open
@@ -44,7 +41,9 @@ cross-industry group dedicated to helping projects and companies make
 consistent, responsible choices to remove harmful language across codebases,
 standards, and documentation.
 
-He has previously held positions at VMware (via Heptio), Red Hat, and CoreOS.
+He has previously held positions at Cisco, VMware (via Heptio), Red Hat, and
+CoreOS. He has also participated in foundation-level governing boards
+([OpenSSF][ossf], [CNCF][cncf], [OpenAPI Initiative][oapi]).
 
 <!-- FIXME:
 This is a low-effort way to do link verification for Mastodon.
@@ -55,7 +54,6 @@ https://github.com/escalate/hugo-split-theme/blob/master/layouts/partials/links.
 <!-- markdownlint-disable-next-line MD033 -->
 <a rel="me" href="https://hachyderm.io/@justaugustus"></a>
 
-[cisco-open]: https://opensource.cisco.com/
 [cncf]: https://www.cncf.io/
 [contrib-strat]: https://github.com/cncf/tag-contributor-strategy
 [devstats]: https://all.devstats.cncf.io/d/22/prs-authors-table?orgId=1
